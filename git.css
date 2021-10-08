@@ -1,0 +1,29 @@
+table
+{
+    border-collapse: collapse;
+    background-color: grey;
+    color: white;
+}
+
+td, th 
+{
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    background-color: black;
+}
+
+caption {
+    color: black;
+    margin-bottom: 35px;
+    margin-top: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    border: dotted 2px silver;
+}
