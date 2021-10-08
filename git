@@ -7,6 +7,48 @@
     <title>git</title>
 </head>
 <body>
+      <table>   
+          
+          <tr>  
+              <th>COMMANDES</th>
+              <th>DESCRIPTION</th>
+          </tr>
+
+          <tr>  
+              <td> $ git config --global user.name "[nom]" </td>
+              <td> Définit le nom que vous voulez associer à toutes vos opérations de
+                   commit </td>
+          </tr>
+
+          <tr> 
+              <td> $ git config --global user.email "[adresse email]" </td>
+              <td> Définit l'email que vous voulez associer à toutes vos opérations de commit </td>
+          </tr>
+
+          <tr>
+              <td> $ git config --global color.ui auto </td>
+              <td> Active la colorisation de la sortie en ligne de commande </td>
+          </tr>
+
+          <tr>
+              <td> $ git init [nom-du-projet] </td>
+              <td> Crée un dépôt local à partir du nom spécifié </td>
+          </tr>
+
+          <tr>  
+              <td> $ git clone [url] </td>
+              <td> Télécharge un projet et tout son historique de versions </td>
+          </tr>
+
+          <tr>  
+              <td> $ git status </td>
+              <td> Liste tous les nouveaux fichiers et les fichiers modifiés à commiter </td>
+          </tr>
+
+
+
+
+      </table>
     
 </body>
 </html>
